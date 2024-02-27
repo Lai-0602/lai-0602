@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 
 Here are some ideas to get you started:
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: ***I HAVE NO FUN FACT!!!***
 
-# Question Of The Century
+### Question Of The Century
 Who are you?
