@@ -1,6 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 
-**Lai-0602/lai-0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Discord: lai0602**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: ***I HAVE NO FUN FACT!!!***
+
+# Question Of The Century
