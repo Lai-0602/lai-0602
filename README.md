@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about **NOTHING!**
 - 📫 How to reach me: **Discord: lai0602**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: ***I have a family!***
+- ⚡ Fun fact: ***I HAVE NO FUN FACT!!!***
