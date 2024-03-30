@@ -7,7 +7,4 @@
 - 💬 Ask me about **NOTHING!**
 - 📫 How to reach me: **Discord: lai0602**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: ***I HAVE NO FUN FACT!!!***
-
-### Question Of The Century
-Who are you?
+- ⚡ Fun fact: ***What do you want to see hear?***
