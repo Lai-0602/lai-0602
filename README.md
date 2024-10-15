@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **a website!**
-- 🌱 I’m currently learning about **how to code a website! (Also learning how to solve hard problems in C++)**
-- 👯 I’m looking to collaborate on **you**
-- 🤔 I’m looking for help with **coding a website and solving coding problems!**
-- 💬 Ask me about **NOTHING!**
-- 📫 How to reach me: **Discord: lai0602**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: ***Sry I don't know what to write here.***
+- 🔭 I’m currently working on **something**!
+- 🌱 I’m currently learning about **something**
+- 👯 I’m looking to collaborate on **someone**
+- 🤔 I’m looking for help with **[setting the number of tabs in NvChad](https://stackoverflow.com/questions/79090284/setting-the-number-of-tabs-in-nvchad)**
+- 💬 Ask me about **anything**
+- 📫 How to reach me:
+    - Discord: `lai0602`
+    - WhatsApp: `+852 9063 2823`
+- 😄 Pronouns: **you**
+- ⚡ Fun fact: ***I am human!***
